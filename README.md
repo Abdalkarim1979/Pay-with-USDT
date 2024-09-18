@@ -94,6 +94,4 @@ async function checkBalance() {
 - **Balance Conversion**: The code converts the balance from wei to USDT using `web3.utils.fromWei`.
   ## Contact
   avrmicrotech@gmail.com
-  abdalkarim1979@gmail.com
-  ش
-  ش
+ 
