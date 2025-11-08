@@ -1,3 +1,36 @@
+
+# USDT Payment Page  
+
+## 📖 Project Description  
+**USDT Payment Page** is a simple web application that allows users to make payments using **Tether (USDT)** through an easy‑to‑use interface. The page displays the wallet address for payments and provides tools to quickly copy the address and check the wallet balance directly on the Ethereum network using **web3.js**.  
+
+---
+
+## ✨ Features
+- 💸 **Enter Amount**: Users can specify the payment amount in USDT.  
+- 🔗 **Wallet Address**: Displayed and can be copied with a single click.  
+- 📊 **Check Balance**: Query the wallet balance directly using the USDT smart contract on Ethereum.  
+- 🎨 **Modern UI**: Clean, responsive design with interactive buttons.  
+- 🔒 **Infura Integration**: Uses Infura API to connect to the Ethereum network.  
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5 / CSS3** for user interface design  
+- **JavaScript (web3.js)** for Ethereum interaction  
+- **USDT Smart Contract** on Ethereum Mainnet  
+
+---
+
+## 🚀 How to Use
+1. Copy the code and open it in a modern browser.  
+2. Replace `YOUR_INFURA_PROJECT_ID` with your Infura project ID from [Infura](https://infura.io).  
+3. Replace `YOUR_USDT_WALLET_ADDRESS` with your own wallet address.  
+4. Open the page, enter the desired amount, then copy the wallet address or check the balance.  
+
+---
+
+
 ### HTML and CSS Code
 
 The HTML and CSS code creates a simple web page for accepting USDT payments. The page includes a form where users can enter the amount of USDT they want to send and displays a fixed USDT wallet address. It also includes buttons to copy the wallet address and check the balance using web3.js.
